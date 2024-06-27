@@ -61,5 +61,3 @@ def rankwise_students(students):
   min_avg(students)
   max_avg(students)
   rankwise_students(students)
-    
-    
